@@ -84,10 +84,3 @@ while True:
     if event == "Créditos":
         creditos()
 
-
-"""
-1 - Importar o modulo OS e criar uma opcao menu para abrir um arquivo txt. Futuramente, abrir arquivo sem extensao Ex: Linux 
-2 - Inserir uma barra inferior apontando para o caminho do arquivo. Acho que é StatusBar. Ja meio caminho andado.
-3 - Inserir Barra de créditos - Text: Python & 2020
-4 - Habilitar menu contexto - ok
-"""
